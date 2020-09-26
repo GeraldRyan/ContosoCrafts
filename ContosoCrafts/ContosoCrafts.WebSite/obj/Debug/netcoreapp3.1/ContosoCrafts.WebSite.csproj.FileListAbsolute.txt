@@ -49,3 +49,4 @@ C:\Users\User\Documents\Code\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\n
 C:\Users\User\Documents\Code\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.pdb
 C:\Users\User\Documents\Code\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.genruntimeconfig.cache
 C:\Users\User\Documents\Code\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.csproj.CopyComplete
+C:\Users\User\Documents\Code\ASP\ContosoCrafts\ContosoCrafts.WebSite\bin\Debug\netcoreapp3.1\Data\products.json
