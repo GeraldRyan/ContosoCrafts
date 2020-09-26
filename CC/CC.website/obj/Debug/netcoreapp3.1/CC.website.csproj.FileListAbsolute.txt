@@ -1,6 +1,5 @@
 C:\Users\User\Documents\Code\ASP\CC\CC.website\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\User\Documents\Code\ASP\CC\CC.website\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\User\Documents\Code\ASP\CC\CC.website\bin\Debug\netcoreapp3.1\Data\products.json
 C:\Users\User\Documents\Code\ASP\CC\CC.website\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\User\Documents\Code\ASP\CC\CC.website\bin\Debug\netcoreapp3.1\CC.website.exe
 C:\Users\User\Documents\Code\ASP\CC\CC.website\bin\Debug\netcoreapp3.1\CC.website.deps.json
