@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using ContosoCrafts.WebSite.Data;
+using ContosoCrafts.WebSite.Services;
 
 namespace ContosoCrafts.WebSite
 {
@@ -29,6 +30,7 @@ namespace ContosoCrafts.WebSite
             services.AddRazorPages();
             services.AddServerSideBlazor();
             services.AddSingleton<WeatherForecastService>();
+            services.AddTransient<JsonFileProductService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
