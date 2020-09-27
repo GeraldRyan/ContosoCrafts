@@ -108,3 +108,7 @@ C:\Users\User\Documents\Code\ASP\CC\CC.website\bin\Debug\netcoreapp3.1\zh-Hans\M
 C:\Users\User\Documents\Code\ASP\CC\CC.website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\User\Documents\Code\ASP\CC\CC.website\obj\Debug\netcoreapp3.1\CC.website.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\Code\ASP\CC\CC.website\obj\Debug\netcoreapp3.1\CC.website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\Code\ASP\CC\CC.website\obj\Debug\netcoreapp3.1\CC.website.RazorComponent.input.cache
+C:\Users\User\Documents\Code\ASP\CC\CC.website\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\ProductList.razor.g.cs
+C:\Users\User\Documents\Code\ASP\CC\CC.website\obj\Debug\netcoreapp3.1\RazorDeclaration\CC.website.dll
+C:\Users\User\Documents\Code\ASP\CC\CC.website\obj\Debug\netcoreapp3.1\Razor\Components\ProductList.razor.g.cs

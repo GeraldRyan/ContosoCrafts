@@ -2,13 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using ContosoCrafts.WebSite.Models;
-using ContosoCrafts.WebSite.Services;
+using CC.website.Models;
+using CC.website.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
-namespace CC.website.Pages
+namespace ContosoCrafts.website.Pages
 {
     public class IndexModel : PageModel
     {

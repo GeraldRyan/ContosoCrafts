@@ -1,10 +1,11 @@
 ﻿@using Microsoft.AspNetCore.Components.Web
-@using ContosoCrafts.WebSite.Models
-@using ContosoCrafts.WebSite.Services
-
-@inject ContosoCrafts.WebSite.Services.JsonFileProductService ProductService
+@using CC.website.Models
+@using CC.website.Services
 
 
+@inject CC.website.Services.JsonFileProductService ProductService
+namespace CC.website.Components
+{
 <div class="card-columns">
     @foreach (var product in ProductService.GetProducts())
     {
@@ -14,9 +15,25 @@
                 <h5 class="card-title">@product.Title</h5>
             </div>
         </div>
+        <div class="card-footer">
+            <small class="text-muted">
+                <button @onclick="(e => SelectProduct(product.Id))"
+                        data-toggle="modal" data-target="#productModal" class="btn btn-primary">
+                    More Info
+                </button>
+            </small>
+        </div>
     }
 </div>
 
 @code {
+    Product selectProduct;
+    string selectProductId;
 
+    void SelectProduct(string productId)
+    {
+        selectProductId = productId;
+        selectProduct = ProductService.GetProducts().First(x => x.Id == productId);
+    }
+}
 }
